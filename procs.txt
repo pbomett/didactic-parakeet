@@ -1,0 +1,166 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  24232  4376 ?        Ss   18:05   0:01 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    18:05   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    18:05   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   18:05   0:00 [kworker/0:0H]
+root         7  0.1  0.0      0     0 ?        S    18:05   0:04 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    18:05   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    18:05   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S    18:05   0:00 [watchdog/0]
+root        11  0.0  0.0      0     0 ?        S    18:05   0:00 [watchdog/1]
+root        12  0.0  0.0      0     0 ?        S    18:05   0:00 [migration/1]
+root        13  0.0  0.0      0     0 ?        S    18:05   0:00 [ksoftirqd/1]
+root        15  0.0  0.0      0     0 ?        S<   18:05   0:00 [kworker/1:0H]
+root        16  0.0  0.0      0     0 ?        S    18:05   0:00 [watchdog/2]
+root        17  0.0  0.0      0     0 ?        S    18:05   0:00 [migration/2]
+root        18  0.0  0.0      0     0 ?        S    18:05   0:00 [ksoftirqd/2]
+root        19  0.0  0.0      0     0 ?        S    18:05   0:00 [kworker/2:0]
+root        20  0.0  0.0      0     0 ?        S<   18:05   0:00 [kworker/2:0H]
+root        21  0.0  0.0      0     0 ?        S    18:05   0:00 [watchdog/3]
+root        22  0.0  0.0      0     0 ?        S    18:05   0:00 [migration/3]
+root        23  0.0  0.0      0     0 ?        S    18:05   0:00 [ksoftirqd/3]
+root        25  0.0  0.0      0     0 ?        S<   18:05   0:00 [kworker/3:0H]
+root        26  0.0  0.0      0     0 ?        S<   18:05   0:00 [khelper]
+root        27  0.0  0.0      0     0 ?        S    18:05   0:00 [kdevtmpfs]
+root        28  0.0  0.0      0     0 ?        S<   18:05   0:00 [netns]
+root        29  0.0  0.0      0     0 ?        S<   18:05   0:00 [perf]
+root        30  0.0  0.0      0     0 ?        S    18:05   0:00 [khungtaskd]
+root        31  0.0  0.0      0     0 ?        S<   18:05   0:00 [writeback]
+root        33  0.0  0.0      0     0 ?        SN   18:05   0:00 [ksmd]
+root        34  0.0  0.0      0     0 ?        SN   18:05   0:00 [khugepaged]
+root        35  0.0  0.0      0     0 ?        S<   18:05   0:00 [crypto]
+root        36  0.0  0.0      0     0 ?        S<   18:05   0:00 [kintegrityd]
+root        37  0.0  0.0      0     0 ?        S<   18:05   0:00 [bioset]
+root        38  0.0  0.0      0     0 ?        S<   18:05   0:00 [kblockd]
+root        39  0.0  0.0      0     0 ?        S<   18:05   0:00 [devfreq_wq]
+root        40  0.0  0.0      0     0 ?        S    18:05   0:00 [kswapd0]
+root        41  0.0  0.0      0     0 ?        S    18:05   0:00 [fsnotify_mark]
+root        48  0.0  0.0      0     0 ?        S<   18:05   0:00 [kthrotld]
+root        51  0.0  0.0      0     0 ?        S<   18:05   0:00 [ipv6_addrconf]
+root        52  0.0  0.0      0     0 ?        S<   18:05   0:00 [deferwq]
+root        96  0.0  0.0      0     0 ?        S<   18:05   0:00 [acpi_thermal_pm]
+root        97  0.0  0.0      0     0 ?        S<   18:05   0:00 [ata_sff]
+root       100  0.0  0.0      0     0 ?        S    18:05   0:00 [scsi_eh_0]
+root       101  0.0  0.0      0     0 ?        S<   18:05   0:00 [scsi_tmf_0]
+root       102  0.0  0.0      0     0 ?        S    18:05   0:00 [scsi_eh_1]
+root       103  0.0  0.0      0     0 ?        S<   18:05   0:00 [scsi_tmf_1]
+root       104  0.0  0.0      0     0 ?        S    18:05   0:00 [scsi_eh_2]
+root       105  0.0  0.0      0     0 ?        S<   18:05   0:00 [scsi_tmf_2]
+root       106  0.0  0.0      0     0 ?        S    18:05   0:00 [scsi_eh_3]
+root       107  0.0  0.0      0     0 ?        S<   18:05   0:00 [scsi_tmf_3]
+root       108  0.0  0.0      0     0 ?        S    18:05   0:00 [scsi_eh_4]
+root       109  0.0  0.0      0     0 ?        S<   18:05   0:00 [scsi_tmf_4]
+root       110  0.0  0.0      0     0 ?        S    18:05   0:00 [scsi_eh_5]
+root       111  0.0  0.0      0     0 ?        S<   18:05   0:00 [scsi_tmf_5]
+root       122  0.0  0.0      0     0 ?        S<   18:05   0:00 [kworker/1:1H]
+root       125  0.0  0.0      0     0 ?        S<   18:05   0:00 [kworker/0:1H]
+root       157  0.0  0.0      0     0 ?        D    18:05   0:00 [jbd2/sda6-8]
+root       158  0.0  0.0      0     0 ?        S<   18:05   0:00 [ext4-rsv-conver]
+root       170  0.0  0.0      0     0 ?        S<   18:05   0:00 [kworker/2:1H]
+root       186  0.0  0.0      0     0 ?        S<   18:05   0:00 [kworker/3:1H]
+root       201  0.0  0.0      0     0 ?        S    18:05   0:00 [kauditd]
+root       213  0.0  0.0  13036  3792 ?        Ss   18:05   0:00 /lib/systemd/systemd-udevd
+root       223  0.0  0.0  12488  4572 ?        Ss   18:05   0:01 /lib/systemd/systemd-journald
+root       266  0.0  0.0      0     0 ?        S    18:05   0:00 [irq/34-mei_me]
+root       269  0.0  0.0      0     0 ?        S<   18:05   0:00 [kpsmoused]
+root       273  0.0  0.0      0     0 ?        S<   18:05   0:00 [cfg80211]
+root       276  0.0  0.0      0     0 ?        S    18:05   0:00 [kworker/1:3]
+root       278  0.0  0.0      0     0 ?        S<   18:05   0:00 [hd-audio0]
+root       283  0.0  0.0      0     0 ?        S<   18:05   0:00 [kvm-irqfd-clean]
+root       291  0.0  0.0      0     0 ?        S<   18:05   0:00 [led_workqueue]
+root       623  0.0  0.1  41976  7284 ?        Ssl  18:05   0:00 /usr/lib/accountsservice/accounts-daemon
+root       624  0.0  0.1  41032  7588 ?        Ssl  18:05   0:00 /usr/sbin/ModemManager
+daemon     625  0.0  0.0   2636  1668 ?        Ss   18:05   0:00 /usr/sbin/atd -f
+root       628  0.0  0.0   2684  1996 ?        Ss   18:05   0:00 /usr/sbin/anacron -dsq
+root       629  0.0  0.0   2440  1932 ?        Ss   18:05   0:00 /usr/sbin/inetd -i
+root       632  0.0  0.0   4928  2784 ?        Ss   18:05   0:00 /usr/sbin/cron -f
+root       633  0.0  0.0   5024  3420 ?        Ss   18:05   0:00 /usr/sbin/smartd -n
+root       634  0.0  0.2  68688 13604 ?        Ssl  18:05   0:03 /usr/sbin/NetworkManager --no-daemon
+root       639  0.0  0.0   3744  2744 ?        Ss   18:05   0:00 /lib/systemd/systemd-logind
+message+   648  0.0  0.0   5820  3844 ?        Ss   18:05   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       666  0.0  0.0   4288  2044 ?        Ss   18:05   0:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+redis      669  0.1  0.0  29320  2912 ?        Ssl  18:05   0:06 /usr/bin/redis-server 127.0.0.1:0          
+root       687  0.0  0.0  32000  3176 ?        Ssl  18:05   0:00 /usr/sbin/rsyslogd -n
+root       693  0.0  0.1  41868  8712 ?        Ssl  18:05   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root       696  0.0  0.0   2592  1988 tty1     Ss+  18:05   0:00 /sbin/agetty --noclear tty1 linux
+root       708  0.0  0.1  48736  7144 ?        Ssl  18:05   0:00 /usr/sbin/gdm3
+root       725  3.9  0.3  77932 23936 tty7     Ssl+ 18:05   3:07 /usr/bin/Xorg :0 -novtswitch -background none -noreset -verbose 3 -auth /var/run/gdm3/auth-for-Debian-gdm-aiUN1T/database -seat seat0 -nolisten tcp vt7
+root       727  0.0  0.0   7736  5832 ?        Ss   18:05   0:03 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+Debian-+   746  0.0  0.0   4972  3604 ?        Ss   18:05   0:00 /lib/systemd/systemd --user
+Debian-+   747  0.0  0.0   6416  1372 ?        S    18:05   0:00 (sd-pam)  
+root       777  0.0  0.1  41656  7868 ?        Ssl  18:05   0:00 /usr/lib/upower/upowerd
+colord     802  0.0  0.2  47136 12740 ?        Ssl  18:05   0:00 /usr/lib/colord/colord
+Debian-+   811  0.0  0.1 100176  7916 ?        S<l  18:05   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit      812  0.0  0.0  21380  2272 ?        SNsl 18:05   0:00 /usr/lib/rtkit/rtkit-daemon
+avahi      834  0.0  0.0   3672  2924 ?        Ss   18:06   0:01 avahi-daemon: running [IndexOne.local]
+avahi      835  0.0  0.0   3548   216 ?        S    18:06   0:00 avahi-daemon: chroot helper
+root       845  0.0  0.1  46984 10688 ?        Ssl  18:06   0:00 /usr/lib/packagekit/packagekitd
+root       867  0.0  0.1  29532  6816 ?        Sl   18:06   0:00 gdm-session-worker [pam/gdm-password]
+root       873  0.0  0.0   4728  3188 ?        Ss   18:06   0:00 /lib/systemd/systemd --user
+root       874  0.0  0.0  23832  1404 ?        S    18:06   0:00 (sd-pam)  
+root       878  0.0  0.1  52564  8160 ?        Sl   18:06   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+root       881  0.0  0.1  75624 11608 ?        Ssl  18:06   0:00 x-session-manager
+root       926  0.0  0.0   3964  1756 ?        S    18:06   0:00 dbus-launch --autolaunch=ad204dbe2b474062b776f76119f89880 --binary-syntax --close-stderr
+root       927  0.0  0.0   5220  2356 ?        Ss   18:06   0:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+root       930  0.0  0.0  24980  4360 ?        Sl   18:06   0:00 /usr/lib/dconf/dconf-service
+root       941  0.0  0.0   4412   208 ?        Ss   18:06   0:00 /usr/bin/ssh-agent /usr/bin/dbus-launch --exit-with-session x-session-manager
+root       944  0.0  0.0   3728  1780 ?        S    18:06   0:00 /usr/bin/dbus-launch --exit-with-session x-session-manager
+root       945  0.0  0.0   5704  3024 ?        Ss   18:06   0:00 /usr/bin/dbus-daemon --fork --print-pid 4 --print-address 6 --session
+root       948  0.0  0.1  50240  7256 ?        Sl   18:06   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+root       952  0.0  0.0   5220  3268 ?        S    18:06   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+root       955  0.0  0.0  18232  4672 ?        Sl   18:06   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+root       964  0.0  0.5 189756 30696 ?        Sl   18:06   0:01 /usr/lib/gnome-settings-daemon/gnome-settings-daemon
+root       981  0.0  0.1 100232  8692 ?        S<l  18:06   0:00 /usr/bin/pulseaudio --start
+root       983  0.0  0.0  31336  5820 ?        Sl   18:06   0:00 /usr/lib/gvfs/gvfsd
+root       992  0.0  0.0  48936  5640 ?        Sl   18:06   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/0/gvfs -f -o big_writes
+root       995  0.0  0.0   2260    64 ?        S    18:06   0:00 /bin/sh /usr/bin/start-pulseaudio-x11
+root       996  0.0  0.0   5132  2296 ?        S    18:06   0:00 /usr/bin/xprop -root -spy
+root      1003  0.0  0.1  43040  8380 ?        Sl   18:06   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      1005  0.0  0.1  59068  8316 ?        Ssl  18:06   0:00 /usr/lib/udisks2/udisksd --no-debug
+root      1014  0.0  0.0  30416  5804 ?        Sl   18:06   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+root      1017  0.0  0.3 143884 18776 ?        Sl   18:06   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+root      1023  0.0  0.2  48464 11996 ?        Sl   18:06   0:00 /usr/lib/telepathy/mission-control-5
+root      1026  0.0  0.0  31100  5352 ?        Sl   18:06   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+root      1030  0.0  0.0  42944  5448 ?        Sl   18:06   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+root      1038  0.0  0.0  30108  5372 ?        Sl   18:06   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+root      1041  3.5  2.5 505812 153248 ?       Sl   18:06   2:46 /usr/bin/gnome-shell
+root      1049  0.0  0.1  57440  8292 ?        Sl   18:06   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+root      1060  0.0  0.2  96392 12588 ?        Sl   18:06   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+root      1069  0.0  0.2 126548 16528 ?        Sl   18:06   0:00 /usr/lib/evolution/evolution-source-registry
+root      1076  0.0  0.2 170320 15568 ?        SNl  18:06   0:00 /usr/lib/tracker/tracker-extract
+root      1078  0.0  0.1  74888 11632 ?        SNl  18:06   0:00 /usr/lib/tracker/tracker-miner-apps
+root      1081  0.0  0.2 102556 12388 ?        SNl  18:06   0:00 /usr/lib/tracker/tracker-miner-fs
+root      1082  0.0  0.3  38944 18680 ?        Sl   18:06   0:00 /usr/bin/python /usr/share/system-config-printer/applet.py
+root      1087  0.1  0.5 107292 35372 ?        Sl   18:06   0:06 /usr/lib/tracker/tracker-store
+root      1090  0.0  0.5 115588 30544 ?        Sl   18:06   0:00 nautilus -n
+root      1098  0.0  0.1  45588 10136 ?        SNl  18:06   0:00 /usr/lib/tracker/tracker-miner-user-guides
+root      1104  0.6  0.4  80068 28712 ?        Sl   18:06   0:27 nm-applet
+root      1106  0.0  0.2 102484 12000 ?        Sl   18:06   0:00 zeitgeist-datahub
+root      1112  0.0  0.1  50360  8072 ?        Sl   18:06   0:00 /usr/bin/zeitgeist-daemon
+root      1117  0.0  0.0   9212  4736 ?        S    18:06   0:00 /usr/lib/i386-linux-gnu/gconf/gconfd-2
+root      1124  0.0  0.2  71180 14304 ?        Sl   18:06   0:00 /usr/lib/i386-linux-gnu/zeitgeist-fts
+root      1141  0.0  0.0   3856  1240 ?        S    18:06   0:00 /bin/cat
+root      1143  0.0  0.1  60644  7584 ?        Sl   18:06   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.9 /org/gtk/gvfs/exec_spaw/0
+root      1175  0.0  0.7 174436 43112 ?        Sl   18:06   0:00 /usr/lib/evolution/evolution-calendar-factory
+root      1184  0.0  0.0  24980  4312 ?        Sl   18:06   0:00 /usr/lib/dconf/dconf-service
+root      1207  8.8  2.9 662276 178472 ?       Sl   18:06   6:50 iceweasel
+root      1260  0.0  0.0  20968  5580 ?        Sl   18:07   0:00 /usr/lib/gvfs/gvfsd-metadata
+root      1384  0.0  0.1   9232  7840 ?        S    18:13   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-wlan0.pid -lf /var/lib/NetworkManager/dhclient-4bd14170-b757-4e80-beb7-7b5d5e046d70-wlan0.lease -cf /var/lib/NetworkManager/dhclient-wlan0.conf wlan0
+root      1438  0.0  0.0      0     0 ?        S    18:13   0:01 [kworker/2:2]
+root      1478  0.0  0.0      0     0 ?        S    18:16   0:00 [kworker/1:0]
+root      1510  0.0  0.0      0     0 ?        S    18:20   0:02 [kworker/3:1]
+root      1512  0.0  0.0   2260   624 ?        S    18:20   0:00 /bin/sh -c run-parts --report /etc/cron.monthly
+root      1513  0.0  0.0   2152   568 ?        S    18:20   0:00 run-parts --report /etc/cron.monthly
+root      1517  0.0  0.0   2260   596 ?        S    18:20   0:00 /bin/sh /etc/cron.monthly/ieee-data
+root      1518  0.0  0.0   2260  1328 ?        S    18:20   0:00 /bin/sh /usr/bin/update-oui -f -q
+root      1553  0.4  0.0      0     0 ?        S    18:21   0:16 [kworker/u32:1]
+root      1701  0.0  0.0      0     0 ?        S    18:43   0:00 [kworker/0:0]
+root      1702  0.0  0.0      0     0 ?        S    18:43   0:00 [kworker/0:1]
+root      1734  0.3  0.0      0     0 ?        S    18:56   0:06 [kworker/u32:2]
+root      1778  0.0  0.0      0     0 ?        S    19:10   0:00 [kworker/3:2]
+root      1794  0.2  0.4  69720 27008 ?        Rl   19:14   0:01 /usr/lib/gnome-terminal/gnome-terminal-server
+root      1797  0.0  0.0   2404  1660 ?        S    19:14   0:00 gnome-pty-helper
+root      1798  0.0  0.0   7476  5488 pts/0    Ss   19:14   0:00 bash
+root      1848  0.0  0.0      0     0 ?        S    19:23   0:00 [kworker/u32:0]
+root      1854  0.5  0.0  33760  5660 ?        S    19:23   0:00 wget -q -O- http://standards.ieee.org/regauth/oui/iab.txt
+root      1855  0.0  0.0   4696  2404 pts/0    R+   19:24   0:00 ps aux
